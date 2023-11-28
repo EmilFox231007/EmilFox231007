@@ -1,4 +1,4 @@
-### Hi there 👋
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal)
 
 <!--
 **EmilFox231007/EmilFox231007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
